@@ -12,4 +12,5 @@ Arcs are inputs/outputs of nodes
 
 https://www.biostars.org/p/386005/
 https://www.python.org/doc/essays/graphs/
+https://toil.readthedocs.io/en/latest/
 
